@@ -3,7 +3,7 @@ import React from 'react';
 export default function About() {
   return (
     <div>
-      <p className="content is-medium">Technical Writer and Something-of-a Full Stack Developer</p>
+      <p className="content is-medium">From Sales to Full Stack Developer</p>
       <hr />
       <img className="my-pic" src={process.env.PUBLIC_URL + '/img/profile.jpg'} alt="Jules Joseph"/>
       <p className="content is-italic mt-4">
